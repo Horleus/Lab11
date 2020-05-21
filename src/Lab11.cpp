@@ -1,7 +1,11 @@
 #include <iostream>
+#include <math.h>
 using namespace std;
 
-int main() {
-	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+int main()
+{
+	double f,step,r ;
+	setlocale(LC_ALL, "Ukrainian");
+
 	return 0;
 }
